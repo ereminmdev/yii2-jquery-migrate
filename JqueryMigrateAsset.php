@@ -11,4 +11,8 @@ class JqueryMigrateAsset extends AssetBundle
     public $js = [
         'jquery-migrate.min.js',
     ];
+
+    public $depends = [
+        'yii\web\JqueryAsset',
+    ];
 }
