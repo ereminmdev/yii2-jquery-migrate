@@ -4,7 +4,7 @@ JQuery migrate assert for Yii framework.
 
 ## Install
 
-``composer require ereminmdev/yii2-jquery-migrate``
+``composer require --prefer-dist ereminmdev/yii2-jquery-migrate``
 
 ## Documentation
 
