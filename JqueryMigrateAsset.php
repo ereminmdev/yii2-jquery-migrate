@@ -9,7 +9,7 @@ class JqueryMigrateAsset extends AssetBundle
     public $sourcePath = '@npm/jquery-migrate/dist';
 
     public $js = [
-        'jquery-migrate.min.js',
+        YII_DEBUG ? 'jquery-migrate.js' : 'jquery-migrate.min.js',
     ];
 
     public $depends = [
