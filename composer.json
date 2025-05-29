@@ -2,7 +2,7 @@
   "name": "ereminmdev/yii2-jquery-migrate",
   "description": "JQuery migrate assert for Yii framework.",
   "keywords": ["yii2","jquery","jquery migrate"],
-  "homepage": "https://bitbucket.org/ereminmdev/yii2-jquery-migrate",
+  "homepage": "https://github.com/ereminmdev/yii2-jquery-migrate",
   "type": "yii2-extension",
   "license": "MIT",
   "authors": [
